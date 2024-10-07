@@ -1,5 +1,10 @@
 ## Overview
- Developed an interactive quiz application using Java Object-Oriented Programming (OOP) principles and Java Swing for the user interface.
+ Developed an interactive quiz application using Java Object-Oriented Programming (OOPS) principles and Java Swing for the user interface.
+
+## Technologies Used
+
+- Java OOPS
+- Java Swing
 
  ## Preview
 
@@ -23,7 +28,14 @@ Quiz Interface: An engaging quiz interface with multiple-choice questions, a tim
 
 Score Screen: A results page displaying the user's score with a congratulatory message after completing the quiz.
 
-**Thank you for exploring our repository! If you have any questions or feedback, please don't hesitate to reach out.**
+Connect me on [LinkedIn](https://www.linkedin.com/in/pratik-kumar-77b3331b6) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
+
+## Show your support
+
+Give a ⭐ if you like this repo!
+
+Thank you for visiting my repository! Happy coding!
+
 
 
 
