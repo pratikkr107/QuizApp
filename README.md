@@ -1,5 +1,5 @@
 ## Overview
- Create a Quiz Application with the help of Java Swing
+ Developed an interactive quiz application using Java Object-Oriented Programming (OOP) principles and Java Swing for the user interface.
 
  ## Preview
 
