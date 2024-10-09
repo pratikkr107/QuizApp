@@ -30,6 +30,9 @@ Score Screen: A results page displaying the user's score with a congratulatory m
 
 Connect me on [LinkedIn](https://www.linkedin.com/in/pratik-kumar-77b3331b6) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
 
+# 🤝 Contributing
+- Contributions are welcome! Feel free to submit issues and pull requests.
+
 ## Show your support
 
 Give a ⭐ if you like this repo!
